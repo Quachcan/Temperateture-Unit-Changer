@@ -1,0 +1,14 @@
+/Applications/Document /Learning Unity/F to C/bin/Debug/net8.0/F to C
+/Applications/Document /Learning Unity/F to C/bin/Debug/net8.0/F to C.deps.json
+/Applications/Document /Learning Unity/F to C/bin/Debug/net8.0/F to C.runtimeconfig.json
+/Applications/Document /Learning Unity/F to C/bin/Debug/net8.0/F to C.dll
+/Applications/Document /Learning Unity/F to C/bin/Debug/net8.0/F to C.pdb
+/Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/F to C.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/F to C.AssemblyInfoInputs.cache
+/Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/F to C.AssemblyInfo.cs
+/Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/F to C.csproj.CoreCompileInputs.cache
+/Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/F to C.dll
+/Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/refint/F to C.dll
+/Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/F to C.pdb
+/Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/F to C.genruntimeconfig.cache
+/Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/ref/F to C.dll
