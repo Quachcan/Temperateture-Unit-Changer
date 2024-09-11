@@ -29,7 +29,7 @@ namespace dotnet_change_temperature
                     case 2:
                         Console.WriteLine("Enter Celsius: ");
                         celsius = Double.Parse(Console.ReadLine());
-                        Console.WriteLine("Celsius to Fahrenheit: " + CelsiusToFahrenheit(celsius));
+                        Console.WriteLine("Celsius to Fah0renheit: " + CelsiusToFahrenheit(celsius));
                         break;
                     case 0:
                         Environment.Exit(0);

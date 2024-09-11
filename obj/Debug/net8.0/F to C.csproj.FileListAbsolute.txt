@@ -12,3 +12,4 @@
 /Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/F to C.pdb
 /Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/F to C.genruntimeconfig.cache
 /Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/ref/F to C.dll
+/Applications/Document /Learning Unity/F to C/obj/Debug/net8.0/F to C.sourcelink.json
